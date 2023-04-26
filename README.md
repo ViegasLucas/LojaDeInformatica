@@ -3,6 +3,4 @@ Repositório que contém os códigos criados à partir da releitura da lojaObama
 
 # Este design pertence ao [Jailson Costa Santos](https://github.com/professorobama)
 
-
-
-
+![preview img](/preview.png)
