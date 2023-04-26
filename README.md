@@ -1,2 +1,2 @@
 LojaDeInformatica
-Repositório que contem os códigos da Loja Obama, criado com o intuíto de praticar e melhorar os conhecimentos sobre html e css
+Repositório que contém os códigos criados à partir da releitura da lojaObama, criado com o intuíto de praticar e melhorar os conhecimentos sobre html e css
